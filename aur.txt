@@ -1,0 +1,7 @@
+phpstorm
+gitkraken
+slack-desktop
+telegram-desktop-bin
+usb-creator
+imagewriter
+

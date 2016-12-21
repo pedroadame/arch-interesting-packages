@@ -1,0 +1,16 @@
+zsh
+shutter
+chromium
+java-environment
+mariadb
+moc
+ncdu
+nodejs
+numlockx
+powerline-fonts
+powerline
+pv
+terminator
+vim
+unrar
+
